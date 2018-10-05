@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Tiny Rick",
+    "image": "http://www.popculart.com/uploads/1/0/5/7/105745419/rick-16_orig.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Poopybutthole",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2sW2dfjGwYp4-CbPrSbyMVdc8089tSMgK7Ld1OVOELm6NiK2"
+  },
+  {
+    "id": 3,
+    "name": "Mr. Meeseeks",
+    "image": "https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F11d85b0466487d61a86010d4375fde12.300x300x1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Simple Rick",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-989964a1e0ba3b8970d7f5ce640aafd2-c"
+  },
+  {
+    "id": 5,
+    "name": "Summer",
+    "image": "https://assets.rbl.ms/10675550/980x.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pickle Rick",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe1TEaoZSsgEIIgz9MU7PQ1uSFpK3fPcSLLf5vZqNj_w1E4H1y"
+  },
+  {
+    "id": 7,
+    "name": "Morty",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/f_auto,fl_progressive,q_auto,c_fit,w_680/q4jnto3mvzsz5vqxwuin"
+  },
+  {
+    "id": 8,
+    "name": "Pencilvester",
+    "image": "https://i.pinimg.com/originals/58/09/08/5809085d886d4c998dff3afd19c766ab.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jerry",
+    "image": "https://i.pinimg.com/originals/bb/e6/61/bbe661c241d27947bda5ed937107be22.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sleepy Gary",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/9/9c/Sleepy_Gary_Better_Image.png/revision/latest?cb=20170131021113"
+  },
+  {
+    "id": 11,
+    "name": "Bird Person",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-bde842d4fab43353f6a0f9967f1d6675"
+  },
+  {
+    "id": 12,
+    "name": "Beth",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/beth-rick-and-morty-14.1.jpg"
+  }
+]
